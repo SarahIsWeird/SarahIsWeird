@@ -1,7 +1,7 @@
 ### I'm Sarah! 🖤
 
-Hey! Thanks for checking out my profile. I'm Sarah (she/her), I'm 18 and I live in Germany. Currently I'm studying IT. 🎓
+Hey! Thanks for checking out my profile. I'm Sarah (she/her), I'm 18 and I live in Germany. I'm studying IT currently. 🎓
 
-I mostly develop in C and C++, but I also work with Java and JavaScript a lot. I also do some embedded stuff!
+I mostly develop in C, C++ and Kotlin, but I also work with Java and JavaScript sometimes. I do some embedded stuff, too.
 
-You can find a lot of random projects on my profile. Don't expect *that* many updates. I'm mostly working on my C/C++ Duinocoin library [libduco](https://github.com/SarahIsWeird/libduco) lately. Check it out if you're into that kinda stuff! 😊
+Nowadays I mostly do Discord bots for my friends, but I also start a lot of side projects which are never going to be finished.
